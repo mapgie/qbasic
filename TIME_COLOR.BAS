@@ -1,0 +1,10 @@
+1 CLS
+c% = INT(RND * 14) + 1
+COLOR c%
+
+2 GOSUB 5
+GOTO 2
+5
+PRINT TIME$
+RETURN
+
