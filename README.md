@@ -1,7 +1,7 @@
 # QBASIC
 
 *SUMMARY:* 
-QBASIC as written or pilaged by an 11yo in 1999
+QBASIC as written or pillaged by an 11yo in 1999
 
 These files are best viewed using [QB64](https://www.qb64.org/), which was used for the screenshots herein. 
 > QB64 is a modern extended BASIC programming language that retains QBasic/QuickBASIC 4.5 compatibility and compiles native binaries for Windows, Linux, and macOS
